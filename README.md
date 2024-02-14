@@ -6,6 +6,6 @@ La asignatura "Geometría II" profundiza en diagonalización de endomorfismos, a
 
 ## Licencia
 
-Parte del contenido de este repositorio ha sido creado por mí y parte creada por el profesor de la asignatura (Leonor Ferrer Martínez), y se distribuye bajo una licencia Creative Commons Zero v1.0 Universal (más información [aquí](https://github.com/juanmaarg6/GEO2/blob/main/LICENSE)).
+Parte del contenido de este repositorio ha sido creado por mí y parte creada por la profesora de la asignatura (Leonor Ferrer Martínez), y se distribuye bajo una licencia Creative Commons Zero v1.0 Universal (más información [aquí](https://github.com/juanmaarg6/GEO2/blob/main/LICENSE)).
 
 En caso de que detectes contenidos que violen los derechos de propiedad intelectual, por favor contacta conmigo en juanmaarg6@gmail.com.
